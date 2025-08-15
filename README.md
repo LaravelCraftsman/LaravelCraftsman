@@ -28,4 +28,5 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 My Beliefs
 
 💬 "Great software is built on clean architecture, thoughtful design, and a relentless focus on solving real problems."
+
 💬 "A project that is 99% complete is, in reality, 100% incomplete — every detail matters."
