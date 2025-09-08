@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danish Chowdhry  
+# 👋 Hi, I'm Danish M Chowdhry  
 **🚀 Fullstack Laravel Developer | PHP 8 | Livewire & Filament | REST APIs | MySQL Optimization**  
 
 I’m a **Laravel Developer** with 4+ years of PHP 8 experience and over a decade in software development.  
